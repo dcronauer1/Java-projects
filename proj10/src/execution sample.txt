@@ -1,0 +1,52 @@
+Enter assignment name ("stop" to stop):
+assignment 1
+Enter assignment's total possible score:
+80
+Enter user's score:
+70
+Enter assignment name ("stop" to stop):
+d
+Enter assignment's total possible score:
+0
+Enter user's score:
+0
+ERROR: THE POINTS POSSIBLE IS INVALID
+
+Enter assignment name ("stop" to stop):
+s
+Enter assignment's total possible score:
+10
+Enter user's score:
+-1
+ERROR: THE POINTS EARNED IS INVALID
+
+Enter assignment name ("stop" to stop):
+f
+Enter assignment's total possible score:
+19
+Enter user's score:
+20
+ERROR: THE POINTS EARNED IS INVALID
+
+Enter assignment name ("stop" to stop):
+assignment 2
+Enter assignment's total possible score:
+10
+Enter user's score:
+2
+Enter assignment name ("stop" to stop):
+4
+Enter assignment's total possible score:
+20
+Enter user's score:
+17
+Enter assignment name ("stop" to stop):
+stop
+Assignment Scores: actual/total score,%
+assignment 1:        70/80           87.5%
+assignment 2:        2/10            20%
+4:                   17/20           85%
+The average grade from each of these assignments is: 64.17%
+The grade earned from these assignments is: 89.0/110 (80.91%)
+
+Process finished with exit code 0

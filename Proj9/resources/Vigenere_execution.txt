@@ -1,0 +1,9 @@
+Select a cipher (1: Caesar, 2: Substitution, 3: Vigenere):
+3
+Enter the Vigenere key: key
+Enter the file path (or 'quit' to exit):
+C:\Users\[user]\OneDrive\sweng311\Proj9\resources\fox.txt
+Translated text:
+DLC AYGMO ZBSUX JMH NSWTQ YZCB XFO PYJC BYK
+Enter the file path (or 'quit' to exit):
+quit

@@ -1,0 +1,8 @@
+Select a cipher (1: Caesar, 2: Substitution, 3: Vigenere):
+1
+Enter the file path (or 'quit' to exit):
+C:\Users\[user]\OneDrive\sweng311\Proj9\resources\fox.txt
+Translated text:
+QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
+Enter the file path (or 'quit' to exit):
+quit
